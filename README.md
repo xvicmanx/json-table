@@ -3,7 +3,7 @@ A Simple component to show an object in a simple format.
 ## Example
 
 ```shell 
-$ npm install json-table --save
+$ npm install simple-json-table --save
 ```
 
 ```javascript
