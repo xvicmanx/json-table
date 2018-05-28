@@ -9,7 +9,7 @@ $ npm install json-table --save
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import JSONTable from 'json-table'; 
+import JSONTable from 'simple-json-table'; 
 
 const source = {
   foo: 'bar',
