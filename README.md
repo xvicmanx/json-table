@@ -11,7 +11,30 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import JSONTable from 'json-table'; 
 
-const source = {};
+const source = {
+  foo: 'bar',
+  name: 'Jonh',
+  lastName: 'Doe',
+  tags: ['json', 'table'],
+  job: {
+    name: 'Company',
+    address: 'Here',
+    country: {
+      name: 'DX',
+      abbr: 'dDF'
+    },
+    employees: [
+      {
+        name: 'Jose',
+        age: '12'
+      },
+      {
+        name: 'Paula',
+        age: '12'
+      }
+    ]
+  }
+};
 
 ReactDOM.render(
   <JSONTable source={source} />,
