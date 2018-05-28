@@ -45,7 +45,7 @@ var JSONTable = function JSONTable(_ref) {
     Object.keys(source).map(function (k) {
       return _react2.default.createElement(
         'div',
-        { style: styles.row },
+        { style: styles.row, key: k },
         _react2.default.createElement(
           'span',
           { style: styles.keyColumn },

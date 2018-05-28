@@ -1,5 +1,5 @@
 {
-  "name": "json-table",
+  "name": "simple-json-table",
   "version": "0.0.1",
   "description": "A Simple component to show an object in a simple format.",
   "main": "build/index.js",
