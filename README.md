@@ -3,6 +3,7 @@ A Simple component to show an object in a table format.
 
 
 ## Example
+[In Code Sandbox](https://codesandbox.io/s/k17jz4545)
 
 ```shell 
 $ npm install simple-json-table --save
