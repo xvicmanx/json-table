@@ -1,5 +1,8 @@
 # JSON Table
-A Simple component to show an object in a simple format.
+A Simple component to show an object in a table format.
+
+![Snap](snapshot.jpg)
+
 ## Example
 
 ```shell 
