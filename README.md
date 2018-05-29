@@ -1,7 +1,6 @@
 # JSON Table
 A Simple component to show an object in a table format.
 
-![Snap](snapshot.jpg)
 
 ## Example
 
@@ -45,6 +44,8 @@ ReactDOM.render(
 );
 
 ```
+
+![Snap](snapshot.jpg)
 
 ## Component Properties
 
